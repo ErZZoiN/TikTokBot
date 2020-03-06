@@ -1,3 +1,11 @@
+## TikTokBot
+
+I'm using the unofficial API from https://github.com/szdc/tiktok-api
+I changed the source of index.js to disable credential to bypass CORS policy, and to not set unsafe header.
+
+Device credential are sketchy when from emulator.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
